@@ -1,0 +1,21 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin05",
+        "Name": "Skin05",
+        "ResourcePath": "DATA/Characters/Ninan/Skins/Skin05/Skin05.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "NinanBase.blnd",
+            "ChampionSkinID": 91005,
+            "ChampionSkinName": "Blood_Moon_Ninan ",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Ninan_Skin05.skn",
+            "Skeleton": "Ninan_Skin05.skl",
+            "SkinScale": 1.2,
+            "Texture": "Ninan_Skin05_TX_CM.dds"
+			"UsesSkinVO": "true"
+        }
+    }
+}

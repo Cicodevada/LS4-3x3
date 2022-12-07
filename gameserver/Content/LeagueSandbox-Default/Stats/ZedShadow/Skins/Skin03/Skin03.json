@@ -1,0 +1,21 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin03",
+        "Name": "Skin03",
+        "ResourcePath": "DATA/Characters/ZedShadow/Skins/Skin03/Skin03.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "ZedShadow.blnd",
+            "CastShadows": "0",
+            "ChampionSkinID": 84009,
+            "ChampionSkinName": "ZedShadowSkin03",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Zed_Skin03.skn",
+            "Skeleton": "Zed_Skin03.skl",
+            "SkinScale": 1.17,
+            "Texture": "ZedShadow_Skin03_TX_CM.dds"
+        }
+    }
+}

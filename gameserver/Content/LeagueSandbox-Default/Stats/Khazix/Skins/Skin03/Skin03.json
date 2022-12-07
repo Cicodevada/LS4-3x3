@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin03",
+        "Name": "Skin03",
+        "ResourcePath": "DATA/Characters/Khazix/Skins/Skin03/Skin03.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "KhazixSkin03.blnd",
+            "ChampionSkinID": 121003,
+            "ChampionSkinName": "KhazixSkin03",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Khazix_Skin03.skn",
+            "Skeleton": "Khazix_Skin03.skl",
+            "SkinScale": "1.0",
+            "Texture": "Khazix_Skin03_TX_CM.dds"
+        }
+    }
+}

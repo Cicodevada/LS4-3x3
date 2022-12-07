@@ -1,0 +1,21 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin10",
+        "Name": "Skin10",
+        "ResourcePath": "DATA/Characters/ZedShadow/Skins/Skin10/Skin10.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "ZedShadow.blnd",
+            "CastShadows": "0",
+            "ChampionSkinID": 84016,
+            "ChampionSkinName": "ZedShadowSkin10",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "ZedShadow.skn",
+            "Skeleton": "ZedShadow.skl",
+            "SkinScale": 1.17,
+            "Texture": "ZedShadow_Skin10_TX_CM .dds"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin20",
+        "Name": "Skin20",
+        "ResourcePath": "DATA/Characters/Ninan/Skins/Skin20/Skin20.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "NinanSkin20.blnd",
+            "ChampionSkinID": 91020,
+            "ChampionSkinName": "Sword_Ninan ",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Ninan_Skin20.skn",
+            "Skeleton": "Ninan_Skin20.skl",
+            "SkinScale": 1.2,
+            "Texture": "Ninan_Skin20_TX_CM.dds"
+			"UsesSkinVO": "true"
+        }
+    }
+}

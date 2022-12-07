@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Base",
+        "Name": "Base",
+        "ResourcePath": "DATA/Characters/Ekko/Skins/Base/Base.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "Ekko.blnd",
+            "ChampionSkinID": "245000",
+            "ChampionSkinName": "Ekko",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Ekko.skn",
+            "Skeleton": "Ekko.skl",
+            "SkinScale": 1.1,
+            "Texture": "Ekko_base_TX_CM.dds"
+        }
+    }
+}

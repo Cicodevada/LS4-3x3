@@ -1,0 +1,24 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin03",
+        "Name": "Skin03",
+        "ResourcePath": "DATA/Characters/Ekko/Skins/Skin03/Skin03.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "Ekko_Skin03.blnd",
+            "ChampionSkinID": 245003,
+            "ChampionSkinName": "Ekko_Skin03",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Ekko_Skin03.skn",
+            "Skeleton": "Ekko_Skin03.skl",
+            "SkinScale": 1.17,
+            "Texture": "Ekko_Skin03_TX_CM.DDS"
+        }
+    }
+	"UNKNOWN_HASHES": {
+            "1091449537": "245003",
+            "2120068477": "Ekko_Base.cac"          
+        }
+}

@@ -1,0 +1,38 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin02",
+        "Name": "Skin02",
+        "ResourcePath": "DATA/Characters/Kalista/Skins/Skin02/Skin02.inibin"
+    },
+    "Values": {
+        "ContextualAction": {
+            "RuleConfigFile": "Kalista_Base.cac"
+        },
+        "IdleParticles": {
+            "NumberOfParticles": 1,
+            "Particle1": "Kalista_Skin02_Idle_Spear_Avatar.troy BUFFBONE_GLB_GROUND_LOC"
+        },
+        "MeshSkin": {
+            "Animations": "KalistaSkin02.blnd",
+            "ChampionSkinID": 429002,
+            "ChampionSkinName": "KalistaSkin02",
+            "MaterialOverride0Submesh": "Altar_Spear",
+            "MaterialOverride0Texture": "KalistaAltar_Skin02_TX_CM.dds",
+            "OverrideBoundingBox": "130 270 130",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Kalista_Skin02.skn",
+            "Skeleton": "Kalista_Skin02.skl",
+            "SkinScale": 0.82,
+            "Texture": "Kalista_Skin02_TX_CM.dds",
+            "YOffset": -0.5
+        },
+        "UNKNOWN_HASHES": {
+            "1708595491": "Spear",
+            "1943617021": "Kalista_SpearSubmesh_TX_CM.dds",
+            "3175358980": "Spear",
+            "3700722767": "Spear",
+            "708066840": "Altar_Spear"
+        }
+    }
+}

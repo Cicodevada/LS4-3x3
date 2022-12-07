@@ -1,0 +1,26 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin05",
+        "Name": "Skin05",
+        "ResourcePath": "DATA/Characters/MonkeyKing/Skins/Skin05/Skin05.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "MonkeyKingSkin05.blnd",
+            "ChampionSkinID": 62005,
+            "ChampionSkinName": "MonkeyKingSkin05",
+            "ReflectionFresnel": 0.6,
+            "ReflectionFresnelBlue": 1.6,
+            "ReflectionFresnelGreen": 1.6,
+            "ReflectionFresnelRed": 1.6,
+            "ReflectionOpacityDirect": 0.3,
+            "ReflectionOpacityGlancing": 0.3,
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "MonkeyKing_Skin05.skn",
+            "Skeleton": "MonkeyKing_Skin05.skl",
+            "SkinScale": 1.2,
+            "Texture": "MonkeyKing_Skin05_CM_TX.dds"
+        }
+    }
+}

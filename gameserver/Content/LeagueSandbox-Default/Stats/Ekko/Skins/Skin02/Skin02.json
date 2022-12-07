@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin02",
+        "Name": "Skin02",
+        "ResourcePath": "DATA/Characters/Ekko/Skins/Skin02/Skin02.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "EkkoSkin02.blnd",
+            "ChampionSkinID": 245002,
+            "ChampionSkinName": "EkkoSkin02",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Ekko_Skin02.skn",
+            "Skeleton": "Ekko_Skin02.skl",
+            "SkinScale": 1.1,
+            "Texture": "Ekko_Skin02_TX_CM.dds"
+        }
+    }
+}

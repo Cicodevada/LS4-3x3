@@ -1,0 +1,21 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin12",
+        "Name": "Skin12",
+        "ResourcePath": "DATA/Characters/Talon/Skins/Skin12/Skin12.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "Talon_Skin12.blnd",
+            "ChampionSkinID": 91012,
+            "ChampionSkinName": "Blood_Moon_Talon ",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "talon_skin29.pie_c_11_3.skn",
+            "Skeleton": "talon_skin29.pie_c_11_3.skl",
+            "SkinScale": 1.2,
+            "Texture": "talon_skin29_tx_cm.pie_c_11_3.dds"
+			"UsesSkinVO": "true"
+        }
+    }
+}

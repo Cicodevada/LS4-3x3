@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin10",
+        "Name": "Skin10",
+        "ResourcePath": "DATA/Characters/Zed/Skins/Skin10/Skin10.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "Zed_Skin10.blnd",
+            "ChampionSkinID": 238010,
+            "ChampionSkinName": "zedSkin10 ",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Zed_Skin10.skn",
+            "Skeleton": "Zed_Skin10.skl",
+			"MaterialOverride0Submesh": "Zed_Skin10_Throne",
+            "MaterialOverride0Texture": "Zed_Skin10_Throne_TX_CM.dds",
+			"OverrideBoundingBox": "75 120 75",
+            "SelfIllumination": 0.900000036,
+            "SkinScale": 1.17,
+            "Texture": "Zed_Skin10_TX_CM.dds.dds"
+			"UsesSkinVO": "true"
+        }
+		"UNKNOWN_HASHES": {
+            "708066840": "Zed_Skin10_Throne"
+        }
+    }
+}

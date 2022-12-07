@@ -1,0 +1,21 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin39",
+        "Name": "Skin39",
+        "ResourcePath": "DATA/Characters/Ninan/Skins/Skin39/Skin39.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "NinanSkin39.blnd",
+            "ChampionSkinID": 91038,
+            "ChampionSkinName": "Sword_Ninan ",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Ninan_Skin29.skn",
+            "Skeleton": "Ninan_Skin29.skl",
+            "SkinScale": 1.2,
+            "Texture": "Ninan_Skin29_TX_CM.dds"
+			"UsesSkinVO": "true"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin11",
+        "Name": "Skin11",
+        "ResourcePath": "DATA/Characters/LeeSin/Skins/Skin11/Skin11.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "LeeSin_Skin11.blnd",
+            "ChampionSkinID": 64011,
+            "ChampionSkinName": "leesinSkin11",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "leesin_Skin11.skn",
+            "Skeleton": "leesin_Skin11.skl",
+            "SkinScale": 1.82,
+            "Texture": "leesin_Skin11_TX_CM.dds"
+        }
+    }
+}

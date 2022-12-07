@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin20",
+        "Name": "Skin20",
+        "ResourcePath": "DATA/Characters/Riven/Skins/Skin20/Skin20.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "LunarRiven.blnd",
+            "ChampionSkinID": 92020,
+            "ChampionSkinName": "RivenSkin20",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "riven_skin05.skn",
+            "Skeleton": "riven_skin05.skl",
+            "SkinScale": 1.5,
+            "Texture": "riven_skin05_TX_CM.dds"
+        }
+    }
+}

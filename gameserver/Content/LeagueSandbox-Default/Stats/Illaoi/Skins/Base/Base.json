@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Base",
+        "Name": "Base",
+        "ResourcePath": "DATA/Characters/Illaoi/Skins/Base/Base.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "Illaoi.blnd",
+            "ChampionSkinID": "238000",
+            "ChampionSkinName": "Zed",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Illaoi.skn",
+            "Skeleton": "Illaoi.skl",
+            "SkinScale": 1.17,
+            "Texture": "Illaoi_base_TX_CM.dds"
+        }
+    }
+}

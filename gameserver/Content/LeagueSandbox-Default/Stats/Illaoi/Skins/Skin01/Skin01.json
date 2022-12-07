@@ -1,0 +1,20 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Skin01",
+        "Name": "Skin01",
+        "ResourcePath": "DATA/Characters/Illaoi/Skins/Skin01/Skin01.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "Animations": "Illaoi_Skin01.blnd",
+            "ChampionSkinID": 238001,
+            "ChampionSkinName": "ZedStormNinja",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Illaoi_Skin01.skn",
+            "Skeleton": "Illaoi_Skin01.skl",
+            "SkinScale": 1.17,
+            "Texture": "Zed_stormNinja_TX_CM.DDS"
+        }
+    }
+}

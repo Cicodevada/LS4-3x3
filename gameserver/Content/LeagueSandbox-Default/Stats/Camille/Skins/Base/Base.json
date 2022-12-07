@@ -1,0 +1,19 @@
+{
+    "MetaData": {
+        "ContentFormatVersion": 4,
+        "Id": "Base",
+        "Name": "Base",
+        "ResourcePath": "DATA/Characters/Camille/Skins/Base/Base.inibin"
+    },
+    "Values": {
+        "MeshSkin": {
+            "ChampionSkinID": "238000",
+            "ChampionSkinName": "Camille",
+            "SelfIllumination": 0.7,
+            "SimpleSkin": "Camille.skn",
+            "Skeleton": "Camille.skl",
+            "SkinScale": 1.17,
+            "Texture": "Camille_base_TX_CM.dds"
+        }
+    }
+}
